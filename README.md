@@ -1,11 +1,11 @@
-این در واقع کپی از فایل   quality_install.sh در گیتهاب خودم به ادرس  https://github.com/2amir563/khodam-down-upload-instagram-youtube-x-facebook/tree/main  هست
+این install.sh1salem در واقع کپی از فایل   quality_install.sh در گیتهاب خودم به ادرس  https://github.com/2amir563/khodam-down-upload-instagram-youtube-x-facebook/tree/main  هست
 
 اجرای مستقیم از گیتهاب
 ```
 bash <(curl -s https://raw.githubusercontent.com/2amir563/khodamasli-down-upload-instagram-youtube-x-facebook/main/install.sh)
 ```
 
- کد فایل quality_install.sh درست است ربات اجرا میشود کیفیت های مختلف توییتر را نشان نمیدهد و مستقیما دانلود میکند برای اینستاگرام هم اگر امکان دانلود کیفیت های مختلف هست هم اینکار را بکن و به کد اضافه کن کد رابنویس من میخواهم درسرور خام اجرا کنم دستور نصب یک خطی برای سرور خام:
+ کد فایل  install.sh1salem مانند  quality_install.sh درست است ربات اجرا میشود کیفیت های مختلف توییتر را نشان نمیدهد و مستقیما دانلود میکند برای اینستاگرام هم اگر امکان دانلود کیفیت های مختلف هست هم اینکار را بکن و به کد اضافه کن کد رابنویس من میخواهم درسرور خام اجرا کنم دستور نصب یک خطی برای سرور خام:
 
 پس از نصب:
 
