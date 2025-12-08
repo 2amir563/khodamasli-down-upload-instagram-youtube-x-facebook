@@ -1,3 +1,7 @@
+
+
+
+فایل install.sh2salem نسبت به install.sh1salem فرقش این است که برای اینستاگرام کپشن هم همراه فیلم میفرستد
 این install.sh1salem در واقع کپی از فایل   quality_install.sh در گیتهاب خودم به ادرس  https://github.com/2amir563/khodam-down-upload-instagram-youtube-x-facebook/tree/main  هست
 
 اجرای مستقیم از گیتهاب
